@@ -1,3 +1,2 @@
-# this is my first repo
-getting started
-hello world
+Repository for Python text based games. 
+Created during Hackbright prep course.
